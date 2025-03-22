@@ -1,7 +1,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2000&pause=3000&color=93DFF7&center=true&vCenter=true&width=435&lines=Oh+hey%F0%9F%91%8B%2C+Welcome!;%F0%9F%94%8E+I'm+Vu+Hoang+Nam+%F0%9F%94%8E" alt="Greeting" style="margin-right: 20px;">
   <p align="center">
-  <img src="https://raw.githubusercontent.com/VHNam1507/VHNam1507/master/img/lines/line-devider.png" width="400" />
+  <img src="https://raw.githubusercontent.com/NamSyntax/NamSyntax/master/images/line-devider.png" width="400" />
   </p>
 </h3>
 
@@ -11,10 +11,9 @@
 
 - 🔬 Constantly learning more about **programming**, **AI**, **Data**, and the **fast-moving tech world**.
 
-- 👆 Trying to do **better**
+- 👆 Trying to do **better**!
 
 - 📬 You can contact me via email: **<namsyntax@gmail.com>**
-
 
 <br>
 
