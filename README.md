@@ -7,7 +7,7 @@
 
 - 📚 I'm currently in my final year, majoring in *Information and Technology* at **The University of Transport in HCMC**
 
-- 🔭 Pursuing a *second degree* with a *Master's program* in **Computer Science**  
+- 🔭 Pursuing a *Master's degree* in **Computer Science**  
 
 - 🔬 Constantly learning more about **programming**, **AI**, **Data**, and the **fast-moving tech world**.
 
