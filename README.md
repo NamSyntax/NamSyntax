@@ -1,9 +1,3 @@
-<h3 align="center">
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/NamSyntax/NamSyntax/master/images/line-devider.png" width="400" />
-  </p>
-</h3>
-
 <div align="center">
   <h3>Hi there, I'm Nam (NamSyntax) 👋</h3>
   <p><em>IT Graduate | AI & NLP Enthusiast</em></p>
