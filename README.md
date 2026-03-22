@@ -1,23 +1,27 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2000&pause=3000&color=93DFF7&center=true&vCenter=true&width=435&lines=Oh+hey%F0%9F%91%8B%2C+Welcome!;%F0%9F%94%8E+I'm+Vu+Hoang+Nam+%F0%9F%94%8E" alt="Greeting" style="margin-right: 20px;">
   <p align="center">
   <img src="https://raw.githubusercontent.com/NamSyntax/NamSyntax/master/images/line-devider.png" width="400" />
   </p>
 </h3>
 
-- 📚 I'm currently in my final year, majoring in *Information and Technology* at **The University of Transport in HCMC**
+<div align="center">
+  <h3>Hi there, I'm Nam (NamSyntax) 👋</h3>
+  <p><em>IT Graduate | AI & NLP Enthusiast</em></p>
+</div>
 
-- 🔭 Pursuing a *Master's degree* in **Computer Science**  
+- 🎓 Graduated with a Bachelor's degree in **Information Technology**, now fully focused on **Artificial Intelligence** and **Natural Language Processing (NLP)**.
 
-- 🔬 Constantly learning more about **programming**, **AI**, **Data**, and the **fast-moving tech world**.
+- 🔭 Currently building production-grade **RAG Systems** and contributing to the **Vietnamese NLP** ecosystem.
 
-- 👆 Trying to do **better**!
+- 🤗 Check out my open-source datasets and models on [Hugging Face](https://huggingface.co/NamSyntax).
+
+- 🔬 Constantly exploring **LLMs**, **Vector Databases**, and building **scalable AI applications**.
+
+- 👆 Always striving to build better and more efficient systems!
 
 - 📬 You can contact me via email: **<namsyntax@gmail.com>**
 
 <br>
-
-<details>
 
 **<summary> 💬 Social Media Handles </summary>**
 
@@ -29,8 +33,6 @@
 
 </div>
 
-</details>
-
 <br>
 
 <div align="center">
@@ -39,7 +41,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamSyntax&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
