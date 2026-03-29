@@ -17,17 +17,14 @@
 
 <br>
 
-**<summary> 💬 Social Media Handles </summary>**
-
-<div align="center" style="display: flex; justify-content: center; gap: 60px; align-items: center;">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namsyntax/)
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/namsyntax)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/namsyntax)
-
-</div>
+[![Gmail](https://img.shields.io/badge/-namsyntax%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:namsyntax@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/namsyntax-0A66C2?style=flat&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/namsyntax)
+[![X](https://img.shields.io/badge/-@namsyntax-000000?style=flat&logo=x&logoColor=white)](https://x.com/namsyntax)
+[![Facebook](https://img.shields.io/badge/-namsyntax-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/namsyntax)
+[![Instagram](https://img.shields.io/badge/-@namsyntax-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/namsyntax)
 
 <br>
+
 
 <div align="center">
   <img src="https://github.com/NamSyntax/NamSyntax/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" style="margin-right: 20px;">
