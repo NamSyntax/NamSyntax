@@ -5,13 +5,7 @@
 
 - 🎓 Graduated with a Bachelor's degree in **Information Technology**, now fully focused on **Artificial Intelligence** and **Natural Language Processing (NLP)**.
 
-- 🔭 Currently building production-grade **RAG Systems** and contributing to the **Vietnamese NLP** ecosystem.
-
-- 🤗 Check out my open-source datasets and models on [Hugging Face](https://huggingface.co/NamSyntax).
-
-- 🔬 Constantly exploring **LLMs**, **Vector Databases**, and building **scalable AI applications**.
-
-- 👆 Always striving to build better and more efficient systems!
+- 🤗 Check out my open-source datasets and models on [Hugging Face](https://huggingface.co/NamSyntax).!
 
 - 📬 You can contact me via email: **<namsyntax@gmail.com>**
 
